@@ -1,0 +1,30 @@
+.header_wrapper{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,9,121,1) 71%, rgba(50,59,164,1) 100%);
+}
+.logo_inc{
+    font-size: 40px;
+    text-shadow : 0 0 10px black;
+    color:teal;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.menu ul{
+    list-style: none;
+    margin: 0;
+ 
+}
+
+.menu ul li{
+    margin : 10px 15px;
+}
+
+.menu ul li a{
+    color: #fff;
+    font-weight: 600;
+}
+.menu ul li a:hover{
+    text-decoration: none;
+    color: teal;
+}
